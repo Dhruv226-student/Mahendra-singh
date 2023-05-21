@@ -1,0 +1,61 @@
+header{
+  background-color: #3399ff;
+  margin-top: 0;
+  padding: 3px;
+  width: 100%;
+  border-radius: 20px;
+  
+}
+.bg{
+  background-color: red;
+  display : flex;
+  width: 50px;
+}
+*{
+  font-family: serif ;
+}
+.fs{
+  font-size: 25px;
+}
+.fsh{
+  font-size: 40px;
+  padding: auto;
+  text-align: center;
+  background-color: yellow;
+}
+.center{
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  color: white ;
+ 
+}
+footer{
+  font-size: 24px;
+  background-color: blue;
+  color: white;
+}
+hr{
+  border: 2px solid green;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+align-items: center;
+}
+.left{
+  float: right;
+}
+li{
+  font-size: 20px;
+ font-weight: bold;
+}
+.im 
+{
+  width: 300px;
+  height: 300px;
+}
+.im1{
+  width: 100%;
+}
