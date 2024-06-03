@@ -4,19 +4,14 @@
   margin: 0;
   box-sizing: border-box;
 }
-header{
-  background-color: #3399ff;
+.header{
+  background-color: #eeff00;
   margin-top: 0;
-  padding: 3px;
+  padding: 5px;
   width: 100%;
-  border-radius: 20px;
-  
+  text-align: center;
 }
-.bg{
-  background-color: red;
-  display : flex;
-  width: 50px;
-}
+
 *{
   font-family: serif ;
 }
